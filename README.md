@@ -2,12 +2,12 @@
 
 Exploratory data analysis of Airbnb listings in the major cities of California – San Francisco, Santa Cruz, Santa Clara, Oakland and Los Angeles
 
-Data Source:
+### Data Source:
 http://insideairbnb.com/get-the-data.html 
 
 The subject website provides Airbnb listings and reviews data for the major cities in the world.
 
-Overview of the data:
+### Overview of the data:
 Data consists of the Airbnb listings from December 2019. I choose December 2019 to ensure to study the pre-covid behavior. 
 Data consists of 16 columns which are:
 1.	id – represents the id of the listing
@@ -30,7 +30,7 @@ Data consists of 16 columns which are:
 Records count or the row count of the data is 61,540.
 Size of the data: 28.7 MB
 
-Proposed objectives of the project:
+### Objectives of the project:
 
 •	Explore and clean the data for any missing values and duplicate data.
 
@@ -45,3 +45,23 @@ Proposed objectives of the project:
 •	Understand the relation between reviews count and neighborhood.
 
 •	Create appropriate visualizations and build a summary of findings from the data.
+
+### Conclusions from the data analysis:
+
+I used the various data cleaning, data summary and data visualization, geo spatial visualization techniques to analyze the AirBnB listings of the Los Angeles and San Francisco Bay region and found the following summary:
+
+1] Noticed that Los Angeles has nearly 4.7 times the listings when compared to San Francisco.
+
+2] Noticed that the price distribution is righ skewed with very few listings as costly as 25k per night.
+
+3] The mean price of listings in LA is less by $40 when compared to the listings in San Francisco per night.
+
+4] There are a lot of listings available for a minimum stay of 1, 2 as well as 30 days.
+
+5] Also one can notice that, majority of the listings are of Entire home and Private room type.
+
+6] Noticed that majority of lisitngs are concentrated near the downtown and tourist regions.
+
+7] Most of the highly reviewed listings are present in Santa Cruz, Los Angeles and San Francisco.
+
+8] Noticed that the most common words used in listing names are "private", "cozy", "beautiful", "home", "room", "spacious", "studio" etc.
