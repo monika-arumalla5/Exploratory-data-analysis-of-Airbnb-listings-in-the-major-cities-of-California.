@@ -4,6 +4,7 @@ Exploratory data analysis of Airbnb listings in the major cities of California �
 
 Data Source:
 http://insideairbnb.com/get-the-data.html 
+
 The subject website provides Airbnb listings and reviews data for the major cities in the world.
 
 Overview of the data:
@@ -32,9 +33,15 @@ Size of the data: 28.7 MB
 Proposed objectives of the project:
 
 •	Explore and clean the data for any missing values and duplicate data.
+
 •	Perform analysis on the price distribution in various major cities of California.
+
 •	Check if the price has a relation with the minimum stays as well as property type along with location.
+
 •	Perform geographical plotting of the price and location, and to see of if I can find any interesting aspects near the Silicon Valley and the tourist locations in LA.
+
 •	 Analyze the behavior of hosts with multiple listings.
+
 •	Understand the relation between reviews count and neighborhood.
+
 •	Create appropriate visualizations and build a summary of findings from the data.
